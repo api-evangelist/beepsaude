@@ -1,0 +1,31 @@
+# Beep Saúde
+
+> A maior empresa de saúde domiciliar do Brasil. Vacinas, exames laboratoriais
+> e infusões em casa no Rio de Janeiro, São Paulo e Brasília. Sem taxa de
+> deslocamento. Atendimento de domingo a domingo.
+
+Fundada em 2016, a Beep Saúde é pioneira no modelo 100% domiciliar de saúde
+no Brasil. Responsável técnico: Dr. Vander Corteze (CRM 85363-1/RJ).
+CNPJ: 28.286.170/0001-01. Avaliação: 4,7★ com 3.262 avaliações no Google.
+Reputação RA1000 no Reclame Aqui. Atende RJ, SP e DF.
+
+## Páginas principais
+
+- Vacinas em casa: https://beepsaude.com.br/vacinas/
+- Exames em casa: https://beepsaude.com.br/exames/
+- Planos de saúde aceitos: https://beepsaude.com.br/planos-de-saude/
+- Sobre a Beep: https://beepsaude.com.br/a-beep/
+- Calendário vacinal: https://beepsaude.com.br/calendario-de-vacinas/
+
+## Calendários vacinais por faixa etária
+
+- Bebês (0–24 meses): https://beepsaude.com.br/vacinas/calendario-de-vacinas-bebes/
+- Crianças (2–9 anos): https://beepsaude.com.br/vacinas/calendario-de-vacinas-criancas/
+- Adolescentes: https://beepsaude.com.br/vacinas/calendario-de-vacinas-adolescentes/
+- Adultos: https://beepsaude.com.br/vacinas/calendario-de-vacinas-adultos/
+- Gestantes: https://beepsaude.com.br/vacinas/calendario-de-vacinas-gestantes/
+- 60+ anos: https://beepsaude.com.br/vacinas/calendario-de-vacinas-60mais-idosos/
+
+## Blog
+
+- Blog da Beep: https://beepsaude.com.br/blog-da-beep/
